@@ -1,5 +1,4 @@
 # TechnoTeamCards-Secretaries-Officers-Admins-
-technovanza-members-showcase/
 │
 ├── src/
 │   ├── App.js
